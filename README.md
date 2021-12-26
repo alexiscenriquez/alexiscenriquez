@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexiscenriquez&theme=synthwave)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiscenriquez)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
