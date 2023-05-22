@@ -1,5 +1,5 @@
 ### Hi there, I'm Alexis 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiscenriquez)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiscenriquez&layout=donut-vertical)](https://github.com/alexiscenriquez/alexiscenriquez)
 
 <!--
 **alexiscenriquez/alexiscenriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
